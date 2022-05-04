@@ -1,5 +1,3 @@
-# portfolio-projects
+# CIA country analysis
 
-These are some of my recenemtly worked on project.
-
-They are public projects so kindly reach out if you need any clarification. 
+This goal uses Unsupervised Machining Learning Algorithms to gain insights into the similarities between countries and regions of the world by experimenting with different cluster amounts and analyze what each cluster represents.
